@@ -1,0 +1,7 @@
+
+node_modules/
+./Expense-split/node_modules
+./expense-split-backend/node_modules
+Expense-split/node_modules
+
+expense-split-backend/node_modules
